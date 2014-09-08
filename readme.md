@@ -1,5 +1,14 @@
 <img src="logo.png" alt="Gozumi abstract data types" align="right">
 
+Deprecated
+==========
+
+The functionality in this module has been moved to the module [__abstract-data-types__](https://www.npmjs.org/package/abstract-data-types "Abstract Data Types") which now contains the _Queue_ as well as other abstract data types. _adt-queue_ will no longer be maintained.
+
+Please go to [https://www.npmjs.org/package/abstract-data-types](https://www.npmjs.org/package/abstract-data-types "Abstract Data Types").
+
+
+
 adt-queue
 =========
 
